@@ -1,4 +1,4 @@
-id,school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,G3
+,school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,G3
 0,GP,F,19,U,GT3,T,3,3,other,other,,other,1,4,0,no,yes,yes,yes,yes,yes,yes,no,4.0,3,3,1,2,3,10,3.0,3.0,3.0
 1,GP,F,15,U,,A,3,4,other,other,,mother,1,2,0,yes,,no,yes,yes,yes,yes,yes,,3,2,1,1,1,0,2.75,3.5,3.75
 2,GP,F,15,U,GT3,T,4,4,teacher,teacher,,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,4.0,3,2,1,1,5,0,5.0,5.0,4.75
